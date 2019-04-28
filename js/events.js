@@ -7,6 +7,7 @@ const events = {
 			ui.performance(data.performance);
 			ui.show();
 		}
+		
 	},
 
 	songStart(data, time) {

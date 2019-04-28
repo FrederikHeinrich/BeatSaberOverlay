@@ -1,0 +1,14 @@
+#overlay {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+#score {
+	transform: translate(2px, 0);
+}
+
+#difficulty, #bpm {
+	margin-left: auto;
+    margin-right: auto;
+}
